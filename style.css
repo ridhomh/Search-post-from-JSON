@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+    margin: auto;
+    width: 100%;
+}
+
+h1{
+    margin-top: 2em;
+    height: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+#search{
+    width: 300px;   
+}
